@@ -1,0 +1,4 @@
+[2022-11-10 14:17:05] [INFO    ] discord.client: logging in using static token
+[2022-11-10 14:17:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c71f08431c927379e45b488859afe49e).
+[2022-11-10 14:17:22] [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "pong" is not found
